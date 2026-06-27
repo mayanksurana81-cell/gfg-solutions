@@ -8,7 +8,6 @@ Approach:
 - Finally reverse the entire array.
 - The combined reversals place every element into its correct rotated position
   without using extra space.
-
 Time Complexity: O(n)
 Space Complexity: O(1)
  */
